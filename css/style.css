@@ -811,36 +811,24 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #services .icon {
   position: absolute;
-  top: -36px;
-  left: calc(50% - 36px);
+  top: -50px;
+  left: calc(50% - 50px);
   transition: 0.2s;
-  border-radius: 50%;
   display: inline-block;
-  border: 6px solid #fff;
 }
 
 #services .icon a {
   display: inline-block;
-  background: #12b0db;
-  border: 2px solid #12b0db;
   padding: 16px;
   border-radius: 50%;
   transition: 0.3s;
 }
 
-#services .icon i {
-  color: #fff;
+#services .icon img {
+  width: 75px;
   font-size: 24px;
 }
 
-#services .box:hover .icon i {
-  color: #12b0db;
-}
-
-#services .box:hover .icon a {
-  color: #12b0db;
-  background: #fff;
-}
 
 #services .title {
   font-weight: 700;
