@@ -112,9 +112,9 @@ h1, h2, h3, h4, h5, h6 {
   border-left: 0;
 }
 
-@media screen and (min-width: 769px) and (max-width: 1024px) {
+@media screen and (min-width: 769px) and (max-width: 9999px) {
   .emergency { 
-      visibility:hidden;
+      display: none;
     } 
 }
 
