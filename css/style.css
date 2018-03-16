@@ -1010,11 +1010,19 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 60px 0;
 }
 
+#clients .container {
+  text-align: center;
+  margin: auto;
+  padding: 0;
+}
+
 #clients img {
-  max-width: 100%;
-  opacity: 0.5;
+  max-width: 30%;
   transition: 0.3s;
   padding: 15px 0;
+
+  margin: auto;      
+  display: inline-block;    
 }
 
 #clients img:hover {
