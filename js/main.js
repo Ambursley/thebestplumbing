@@ -2,7 +2,7 @@ jQuery(document).ready(function( $ ) {
 
   // Back to top button
   $(window).scroll(function() {
-    if ($(this).scrollTop() > 600) {
+    if ($(this).scrollTop() > 800) {
       $('.back-to-top').fadeIn('slow');
     } else {
       $('.back-to-top').fadeOut('slow');
@@ -16,7 +16,7 @@ jQuery(document).ready(function( $ ) {
     
      // call button
   $(window).scroll(function() {
-    if ($(this).scrollTop() > 600) {
+    if ($(this).scrollTop() > 800) {
       $('.btn-get-started-emerg').fadeIn('slow');
     } else {
       $('.btn-get-started-emerg').fadeOut('slow');
@@ -26,7 +26,7 @@ jQuery(document).ready(function( $ ) {
     
     // space
   $(window).scroll(function() {
-    if ($(this).scrollTop() > 600) {
+    if ($(this).scrollTop() > 800) {
       $('.space').fadeIn('slow');
     } else {
       $('.space').fadeOut('slow');
