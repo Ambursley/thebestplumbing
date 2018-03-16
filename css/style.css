@@ -833,7 +833,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 16px;
   letter-spacing: 1px;
   display: inline-block;
-  background: #12b0db;
+  background: #db1240;
   padding: 8px 28px;
   border-radius: 25px;
   transition: 0.5s;
@@ -843,7 +843,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #call-to-action .cta-btn:hover {
   background: #fff;
-  color: #12b0db;
+  color: #db1240;
 }
 
 
