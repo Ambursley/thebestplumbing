@@ -22,6 +22,7 @@ jQuery(document).ready(function( $ ) {
       $('.btn-get-started-emerg').fadeOut('slow');
     }
   });
+
     
     // space
   $(window).scroll(function() {

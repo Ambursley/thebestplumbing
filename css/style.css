@@ -112,10 +112,10 @@ h1, h2, h3, h4, h5, h6 {
   border-left: 0;
 }
 
-@media only screen and (max-width: 900px) {
-    .hidden {
-        display: none;
-    }
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+  .emergency { 
+      visibility:hidden;
+    } 
 }
 
 /*---- Sticky Footer Social Media-Mobile---- */
