@@ -1461,3 +1461,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 13px;
   color: #ddd;
 }
+
+#thankyou .container {
+    width: 100vw;
+    height: 75vh;
+    text-align: center;
+    padding: 150px 0 0 0;
+    font-size: 20px;
+    color: #12b0db;
+}
